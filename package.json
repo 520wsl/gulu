@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/520wsl/gulu/issues"
   },
-  "homepage": "https://github.com/520wsl/gulu#readme"
+  "homepage": "https://github.com/520wsl/gulu#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
